@@ -1,6 +1,6 @@
 {
   "name": "node-notification-imsx",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Powerful Node package provides capabilities of sending emails, sms and notification",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,18 @@
     "url": "git+https://github.com/GuanyiX/node-notification-imsx.git"
   },
   "author": "Derrick Xiao",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": [
+    "sms",
+    "email",
+    "notification",
+    "imsx",
+    "node-notification-imsx"
+  ],
   "bugs": {
     "url": "https://github.com/GuanyiX/node-notification-imsx/issues"
   },
-  "homepage": "https://github.com/GuanyiX/node-notification-imsx#readme",
+  "homepage": "https://github.com/GuanyiX/node-notification-imsx/package/#readme",
   "dependencies": {
     "firebase-admin": "^9.11.1",
     "nodemailer": "^6.6.3",
